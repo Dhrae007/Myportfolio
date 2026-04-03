@@ -20,9 +20,6 @@ This portfolio was built to highlight my work, technical abilities, and the kind
 ## Purpose
 The purpose of this portfolio is to support my frontend intern application and provide an easy way for recruiters, employers, and collaborators to view my work.
 
-## Live Demo
-Add your live deployment link here once your site is hosted.
-
 ## Repository Link
 [GitHub Repository](https://github.com/Dhrae007/Myportfolio)
 
